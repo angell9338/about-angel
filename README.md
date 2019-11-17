@@ -8,9 +8,10 @@ I'm interested in **reading manga, watching anime, and hanging out with my frien
 
 If you wish to contact me please message through my email: angell9338@hstat.org
 
-Class Schedule:
 
 ___
+
+### Class Schedule:
 
 PD1: Algebra 2
 
