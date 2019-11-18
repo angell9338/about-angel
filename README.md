@@ -11,20 +11,20 @@ If you wish to contact me please message through my email: angell9338@hstat.org
 
 ___
 
-### Class Schedule:
+> ### Class Schedule:
 
-PD1: Algebra 2
+* PD1: Algebra 2
 
-PD2: Sep 11
+* PD2: Sep 11
 
-PD3: AP LANG
+* PD3: AP LANG
 
-PD4: APUSH
+* PD4: APUSH
 
-PD5: Spanish 5
+* PD5: Spanish 5
 
-PD6: Lunch
+* PD6: Lunch
 
-PD7: GYM
+* PD7: GYM
 
-PD8: Physics
+* PD8: Physics
