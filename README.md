@@ -1,12 +1,20 @@
 ## WELCOME
 
-Hello! My name is _Angel_!
+Name: _Angel_!
 
-I'm currently going to [High School of Telecommunications of Arts and Technology!](http://www.hstat.org/)
+School: [High School of Telecommunications of Arts and Technology!](http://www.hstat.org/)
 
-I'm interested in **reading manga, watching anime, and hanging out with my friends**! I also enjoy **listening to lofi music, especially ones with soft beats**!
+Interest:
+* Reading Manga
+* Eating
+* Hanging out friends
 
-If you wish to contact me please message through my email: angell9338@hstat.org
+Music Interest:
+* Lofi
+* R&B
+* KPop
+
+> If you wish to contact me please message through my email: angell9338@hstat.org
 
 
 ___
